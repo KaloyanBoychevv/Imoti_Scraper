@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Scraped data and run logs (generated, can be large)
+data/*.db
+logs/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
